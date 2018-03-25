@@ -54,13 +54,13 @@ body {
   }
 
   h1 {
-    font-size: 1.5em;
+    font-size: 1.3em;
     color: $strong-color;
     @include shadow();
   }
 
   p {
-    font-size: 0.9em;
+    font-size: 0.8em;
     color: $common-color;
     line-height: 1.65;
     @include shadow();
